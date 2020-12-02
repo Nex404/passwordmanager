@@ -25,3 +25,7 @@ Installation:
 ```
 pip3 install -r "requirements.txt"
 ```
+You should create a folder named DBs before using this pw_manager.
+```
+mkdir DBs
+```
